@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+h2{
+    color:  darkgreen;
+}
+
+
+p{
+    color: grey;
+font-size: 24px;
+}
+
+a{
+    color: blue;
+}
+
+ul{
+    color: darkblue;
+}
+
+ol{
+    color: rgb(255, 0, 179);
+}
